@@ -27,19 +27,6 @@
 				</div>
 			</div>
 
-			<!-- <div class="container container-ndsu-2">
-				<a href="http://cdm16921.contentdm.oclc.org/cdm/landingpage/collection/archives">
-					<div class="flipper flipper-ndsu-2 back-ndsu-2">
-						<div class="front face">
-							<img src="http://cdm16921.contentdm.oclc.org/utils/ajaxhelper/?CISOROOT=archives&CISOPTR=464&action=2&DMSCALE=125&DMWIDTH=512&DMHEIGHT=447&DMX=0&DMY=0&DMTEXT=&DMROTATE=0">
-							<h4>Fashion show at NDAC, 1921</h4>
-						</div>
-						<div class="back face">
-							<p class="photo-back">View more from our "NDSU Captured on Glass" collection</p>
-						</div>
-					</div>
-				</a>
-			</div> -->
 			<h2>About the NDSU Archives</h2>
 
 			<p>The NDSU Institute for Regional Studies and University Archives is the special collections and archives department of the North Dakota State University Libraries. Its mission is to identify, collect, preserve and makes accessible rare, valuable and unique historical materials in support of the research and teaching missions of North Dakota State University. It also serves the citizens of North Dakota and scholars throughout the world.</p>
@@ -54,6 +41,7 @@
 		</div>
 
 		<div class="landing-page-sidebar">
+			<a href="http://library.ndsu.edu/ndsuarchives/sites/default/files/ndsu-archives-order-form.pdf" class="search_content_button" id="order">Order Form</a>
 			<h3>Collections</h3>
 			<ul>
 			<li><a href="http://cdm16921.contentdm.oclc.org/cdm/landingpage/collection/ndsu-spiker">Allen Spiker German Russian Dialect Tapes</a></li>
