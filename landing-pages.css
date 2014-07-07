@@ -46,12 +46,13 @@ h3 {
 	margin-top: 17px;
 }
 
-.landing-page-sidebar a{
-	color: #44547E;
+.landing-page a{
+	color: #2A4CA0;
 }
 
-.landing-page-sidebar a:visited {
-	color: #20315C;
+.landing-page a:visited {
+	/*color: #4682B4;*/
+	color: #2A4CA0;
 }
 
 ul {
@@ -99,6 +100,16 @@ ul, li {
 }
 
 .flipper-ndsu-2, .back-ndsu-2 {
+	width: 366px;
+	display: inline-block;
+}
+
+.flipper-pp-1, .back-pp-1 {
+	width: 400px;
+	display: inline-block;
+}
+
+.flipper-pp-2, .back-pp-2 {
 	width: 366px;
 	display: inline-block;
 }
@@ -155,6 +166,10 @@ ul, li {
 	height: 100px;
 	background: white;
 	opacity: 0.8;
+}
+
+.pp-back {
+	width: 400px;
 }
 
 .face.back {
