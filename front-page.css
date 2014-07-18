@@ -1,0 +1,33 @@
+/*@media all and (min-width: 1200px){
+	.front-page {
+		background-color: black;
+	}
+}
+
+@media all and (max-width: 900px){
+	.front-page {
+		background-color: white;
+	}
+}*/
+
+.row {
+	margin: auto;
+}
+
+
+.front-image {
+	height: 200px;
+	width: 300px;
+	margin: 30px 60px 0 0;
+	/*background-color: #4A708B;*/
+	display: inline-block;
+}
+
+.concordia, .ndshs, .ndsl, .ppb, .associates {
+	background-color: #4A708B;
+	display: none;
+}
+
+.ndsu {
+	display: none;
+}
